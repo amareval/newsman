@@ -1,3 +1,10 @@
+//OPEN ITEMS
+//WHY CAN'T I SEE THE THINGS POPULATING THE DATABASE?
+//
+
+
+
+
 var express = require("express");
 var bodyParser = require("body-parser");
 var logger = require("morgan");
